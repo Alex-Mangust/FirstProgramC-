@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Саня\\Desktop\\Учеба\\Введение в программирование\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\Саня\\Desktop\\Учеба\\Знакомство с языками программирования\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Саня\\Desktop\\Учеба\\Введение в программирование\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\Саня\\Desktop\\Учеба\\Знакомство с языками программирования\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Введение в программирование\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Знакомство с языками программирования\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Введение в программирование\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Знакомство с языками программирования\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Саня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Введение в программирование\\Lesson1\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Знакомство с языками программирования\\Lesson1\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Саня\\AppData\\Roaming\\NuGet\\NuGet.Config"
